@@ -8,3 +8,16 @@
   height: 400px;
   margin-bottom: 80px;
 }
+
+#navigate{
+  position: absolute;
+
+  top: -50px;
+  right: -50px;
+
+  width: 50px;
+  background-color: blueviolet;
+  height: 50px;
+  border-radius: 50%;
+  font-size: smaller;
+}
